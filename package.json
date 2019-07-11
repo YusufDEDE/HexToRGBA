@@ -1,0 +1,19 @@
+{
+  "name": "hex-rgba",
+  "version": "1.0.2",
+  "description": "Convert HEX to RGBA | For Atölye15",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "keywords": [
+    "hex",
+    "rgba",
+    "convert",
+    "colors"
+  ],
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "mocha": "^4.0.1"
+  }
+}
